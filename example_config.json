@@ -1,0 +1,13 @@
+{
+    "server": {
+        "port": 4000
+    },
+    "database": {
+        "host": "",
+        "user": "",
+        "password": "",
+        "database": "Monsters_5e",
+        "waitForConnections": true,
+        "connectionLimit": 10
+    }
+}

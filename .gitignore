@@ -1,0 +1,14 @@
+# Node dependencies
+node_modules/
+
+# Environment/Config
+config.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS junk files
+.DS_Store
+Thumbs.db
